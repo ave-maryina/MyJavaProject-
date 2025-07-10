@@ -1,4 +1,4 @@
-package arraySwapp;
+package arraySwap;
 
 public class ArraySwapper {
     public static <T> void swapElements(T[] array, int index1, int index2) {
