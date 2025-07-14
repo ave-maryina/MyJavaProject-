@@ -11,6 +11,7 @@ public class MyArrayRunner {
                 array[i][j] = String.valueOf(new Random().nextInt(3) + 0);
             }
         }
+
         array[2][1] = "k";
 
         try {
